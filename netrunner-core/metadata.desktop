@@ -1,6 +1,6 @@
 [SddmGreeterTheme]
-Name=Netrunner Core
-Description=Netrunner Core SDDM theme
+Name=SDDM Simple
+Description=Simple SDDM theme
 Screenshot=
 License=CC-BY-SA
 Type=sddm-theme
@@ -8,5 +8,5 @@ Version=1.0
 MainScript=Main.qml
 ConfigFile=theme.conf
 TranslationsDirectory=translations
-Theme-Id=netrunner-core
+Theme-Id=sddm-simple
 Theme-API=2.0
