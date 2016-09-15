@@ -1,1 +1,1 @@
-# artwork-sddm-netrunner-core
+# artwork-sddm-simple
