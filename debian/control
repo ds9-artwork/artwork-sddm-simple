@@ -1,5 +1,5 @@
 Source: artwork-sddm-simple
-Section: unknown
+Section: kde
 Priority: optional
 Maintainer: Rohan Garg <rohan@kde.org>
 Build-Depends: debhelper (>=9)
@@ -9,5 +9,6 @@ Homepage: https://github.com/netrunner-artwork/artwork-sddm-simple
 Package: artwork-sddm-simple
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
+Provides: sddm-theme
 Description: sddm theme for Netrunner Core
  SDDM theme for Netrunner Core
