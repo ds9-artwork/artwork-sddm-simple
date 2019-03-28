@@ -1,7 +1,7 @@
 [SddmGreeterTheme]
 Name=SDDM Simple
 Description=Simple SDDM theme
-Screenshot=
+Screenshot=simple.png
 License=CC-BY-SA
 Type=sddm-theme
 Version=1.0
